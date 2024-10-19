@@ -7,11 +7,11 @@
   </tr>
 </table>
 
-<center>
+<p align="center">
 
 ### Just popping by 👋
 #### I primarily use <a href="https://codeberg.org/noflcl">Codeberg</a> but have a tiny presence on <a href="https://noflcl.github.io/">GitHub</a>
 <br>
 
 [<img src="https://raw.githubusercontent.com/noflcl/noflcl/refs/heads/main/github-pages.svg" alt="Get me here" height="150px" />](https://noflcl.github.io/)
-</center>
+</p>
