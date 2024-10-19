@@ -7,7 +7,7 @@
   </tr>
 </table>
 
-<p align="center">
+<p style="text-align: center;">
 
 ### Just popping by 👋
 #### I primarily use <a href="https://codeberg.org/noflcl">Codeberg</a> but have a tiny presence on <a href="https://noflcl.github.io/">GitHub</a>
