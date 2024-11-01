@@ -8,7 +8,7 @@
 </table>
 
 ### Just popping by 👋
-#### I primarily use <a href="https://codeberg.org/noflcl">Codeberg</a> but have a tiny presence on <a href="https://noflcl.github.io/">GitHub</a>
+#### I primarily use <a href="https://codeberg.org/noflcl">Codeberg</a> but have a tiny presence on <a href="https://github.com/noflcl?tab=repositories">GitHub</a>
 <br>
 
 <p align="center" dir="auto">
